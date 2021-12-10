@@ -7,6 +7,7 @@ It is slightly simplified implementation of Kim's [Convolutional Neural Networks
 - Python 3
 - Tensorflow > 0.12
 - Numpy
+- ?
 
 ## Training
 
